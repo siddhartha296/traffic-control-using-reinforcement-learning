@@ -118,7 +118,5 @@ The settings used during the testing and contained in the file **testing_setting
 - *Added a settings file (.ini) for both training and testing.*
 - *Added a minimum number of samples required into the memory to begin training.*
 - *Improved code readability.*
-
-<a href="https://www.buymeacoffee.com/andreavidali" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
  
 
